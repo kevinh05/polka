@@ -2,6 +2,7 @@
 
 PolkyMath is a simple web-based math game where players solve addition problems to earn points. For every 5 correct answers, players receive a simulated NFT reward.
 
+Link to Video: https://www.youtube.com/embed/XH7jMEwNmYU
 
 
 
@@ -25,4 +26,3 @@ PolkyMath is a simple web-based math game where players solve addition problems 
 git clone https://github.com/kevinh05/polka.git
 cd polka
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XH7jMEwNmYU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
